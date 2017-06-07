@@ -36,6 +36,7 @@ group :development, :test do
   gem 'jasmine-rails'
   gem 'faker'
   gem 'pry-rails'
+  gem 'capybara'
 end
 
 group :development do
